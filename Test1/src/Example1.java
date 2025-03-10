@@ -27,5 +27,10 @@ public class Example1 {
                 // Boolean 타입 예제
                 boolean bool = true; // true는 참의 뜻, false는 거짓의 뜻
                 System.out.println(bool);
+
+                int g = (byte) 130;
+                byte h = (byte) 131;
+
+
     }
 }
